@@ -1,0 +1,15 @@
+.card-bdr{
+    border: 0;
+}
+.pcf{
+    background-color: white;
+    border: 0;
+    margin-bottom: 5em;
+}
+.category img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
